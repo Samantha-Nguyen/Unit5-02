@@ -1,0 +1,12 @@
+* {
+  text-align: center;
+}
+
+#body {
+  background-color: #ddd4ff;
+}
+
+#name {
+  color: #28004d;
+  font-family: 'Courier New', Courier, monospace;
+}
