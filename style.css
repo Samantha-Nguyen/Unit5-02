@@ -6,6 +6,11 @@
   background-color: #ddd4ff;
 }
 
+#title {
+  color: #28004d;
+  font-family: 'Courier New', Courier, monospace
+}
+
 #name {
   color: #28004d;
   font-family: 'Courier New', Courier, monospace;
